@@ -1,4 +1,5 @@
 scheduler2
 ==========
 
-Simple TYPO3 Scheduler task example for functions getAdditionalInformation() and getProgress().
+TYPO3 Scheduler task example.
+How to use functions getAdditionalInformation() and getProgress().
